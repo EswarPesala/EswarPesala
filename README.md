@@ -24,7 +24,8 @@
   🌱 Exploring <strong>Supabase, NextAuth, Three.js, WebGL, RAG pipelines</strong> <br>
   🎯 Ask me about <strong>AI Projects, Full-Stack Dev, ML pipelines, CloudSim, Web Scraping</strong> <br>
   📬 Reach me: <a href="mailto:pesalaeswar7@gmail.com"><strong>pesalaeswar7@gmail.com</strong></a> <br>
-  ⚡ Fun fact: <em>I write code that compiles on the first try… after 47 attempts and three cups of coffee!.</em> 😂
+  ⚡ Fun fact: <em>99% of coding is figuring out why the other 1% doesn't work!</em> 🧩😄
+
 </div>
 
 <hr>
