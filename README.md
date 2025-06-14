@@ -2,17 +2,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EswarPesala.EswarPesala" />
 
 <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="border: none; box-shadow: none; outline: none;" /> 
   నమస్తే (Namaste)🙏🏻, Welcome to my Profile! 
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" style="border: none; box-shadow: none; outline: none;" />
 </h2>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="border: none; box-shadow: none; outline: none;" />
 
 <!-- Typing intro animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Eswar+Pesala!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Eswar+Pesala!" alt="Typing SVG" style="border: none; box-shadow: none; outline: none;" />
 </h1>
+
 
 <h3 align="center">
   🚀 CSE @ SVNIT | AI / Data Science Enthusiast | Building Creative Tech for the Real World 🌍
