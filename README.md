@@ -111,10 +111,11 @@
 
 <br>
 
-<p align="center">
-  Made with 💙 by <strong>Eswar Pesala</strong> | Inspired by Open Source ✨
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EswarPesala/EswarPesala/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
+  Made with 💙 by <strong>Eswar Pesala</strong> | Inspired by Open Source ✨
 </p>
